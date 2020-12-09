@@ -1,2 +1,2 @@
-# Gastric_Epithelium
-Study the Cellular Diversity of Human Adult Gastric Epithelium
+# Gastric-Epithelium
+Study the cellular diversity of human adult gastric epithelium
